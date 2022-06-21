@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
         textTheme:  TextTheme(
             headline1: TextStyle(fontWeight: FontWeight.bold, fontSize: 20 , color: AppColor.black ),
             bodyText1: TextStyle(
+
                 height: 2,
                 color: AppColor.grey,
                 fontWeight: FontWeight.bold,
